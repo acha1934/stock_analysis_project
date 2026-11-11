@@ -1,0 +1,635 @@
+{
+  "results": [
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2142.4051000503823,
+      "agent_latency_ms": 0.27059996500611305,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2074.279100052081,
+      "agent_latency_ms": 1.3479000190272927,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2049.385799909942,
+      "agent_latency_ms": 0.14080002438277006,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2069.107700022869,
+      "agent_latency_ms": 0.28220005333423615,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2071.8676999676973,
+      "agent_latency_ms": 0.13910001143813133,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2063.723500003107,
+      "agent_latency_ms": 0.28279994148761034,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2029.3511000927538,
+      "agent_latency_ms": 0.1534000039100647,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2061.9832000229508,
+      "agent_latency_ms": 0.2615000121295452,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2050.7172000361606,
+      "agent_latency_ms": 0.2601000014692545,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "naive",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2053.158099995926,
+      "agent_latency_ms": 0.14960009139031172,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2056.9142000749707,
+      "agent_latency_ms": 0.18339999951422215,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2056.8538999650627,
+      "agent_latency_ms": 0.18269999418407679,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2072.1043000230566,
+      "agent_latency_ms": 0.14750007539987564,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2050.3945999080315,
+      "agent_latency_ms": 0.13880000915378332,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2070.1610998949036,
+      "agent_latency_ms": 0.27290009893476963,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2074.3960000108927,
+      "agent_latency_ms": 0.1879000337794423,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2071.22459996026,
+      "agent_latency_ms": 0.16910000704228878,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2060.541299986653,
+      "agent_latency_ms": 0.1786000793799758,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2054.486499982886,
+      "agent_latency_ms": 0.1626000739634037,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "vector",
+      "library_size": 10,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2058.2438999554142,
+      "agent_latency_ms": 0.18619990441948175,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2078.683500061743,
+      "agent_latency_ms": 0.2500999253243208,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2066.3611000636593,
+      "agent_latency_ms": 0.25109993293881416,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2048.4653000021353,
+      "agent_latency_ms": 0.24459999985992908,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2057.9930000239983,
+      "agent_latency_ms": 0.22040004841983318,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2041.5201999712735,
+      "agent_latency_ms": 0.1379000023007393,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2037.3595000710338,
+      "agent_latency_ms": 0.2354000462219119,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2056.2574000796303,
+      "agent_latency_ms": 0.15390000771731138,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2092.5424000015482,
+      "agent_latency_ms": 0.2432999899610877,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2090.0016999803483,
+      "agent_latency_ms": 0.139000010676682,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "naive",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2057.507099932991,
+      "agent_latency_ms": 0.25150005239993334,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2058.9359999867156,
+      "agent_latency_ms": 0.3389000194147229,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2071.3778000790626,
+      "agent_latency_ms": 0.2077000681310892,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2034.0593999717385,
+      "agent_latency_ms": 0.16059994231909513,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2070.4535000259057,
+      "agent_latency_ms": 0.1954999752342701,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2057.868000003509,
+      "agent_latency_ms": 0.148500083014369,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2034.283599932678,
+      "agent_latency_ms": 0.188700039871037,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2038.0589999258518,
+      "agent_latency_ms": 0.18999993335455656,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2043.962699943222,
+      "agent_latency_ms": 0.23230002261698246,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2059.7961000166833,
+      "agent_latency_ms": 0.14759995974600315,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "vector",
+      "library_size": 50,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2065.1685000630096,
+      "agent_latency_ms": 0.15620002523064613,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2057.4302000459284,
+      "agent_latency_ms": 0.13459997717291117,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2041.6651000268757,
+      "agent_latency_ms": 0.1846000086516142,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2049.3469000793993,
+      "agent_latency_ms": 0.15350000467151403,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2053.413400077261,
+      "agent_latency_ms": 0.13890000991523266,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2027.2492000367492,
+      "agent_latency_ms": 0.14410004951059818,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2064.3556000432,
+      "agent_latency_ms": 0.1509999856352806,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2041.0385000286624,
+      "agent_latency_ms": 0.18350000027567148,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2046.7036999762058,
+      "agent_latency_ms": 0.1406999072059989,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2043.453500024043,
+      "agent_latency_ms": 0.24500000290572643,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "naive",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2056.364000076428,
+      "agent_latency_ms": 0.157299917191267,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the current price of TCS?",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2034.2708000680432,
+      "agent_latency_ms": 0.18259999342262745,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare returns of TCS and Reliance for 2023.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2049.6078999713063,
+      "agent_latency_ms": 0.18999993335455656,
+      "chart_generated": false
+    },
+    {
+      "query": "Show me the price trend of Infosys over the last 6 months.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2047.8806999744847,
+      "agent_latency_ms": 0.18750003073364496,
+      "chart_generated": false
+    },
+    {
+      "query": "Which stock performed better: HDFC Bank or ICICI Bank in 2024?",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2060.319700045511,
+      "agent_latency_ms": 0.21900003775954247,
+      "chart_generated": false
+    },
+    {
+      "query": "Plot the closing price of Wipro from Jan to Dec 2023.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2052.737299934961,
+      "agent_latency_ms": 0.291300006210804,
+      "chart_generated": false
+    },
+    {
+      "query": "Give me the latest price of SBIN.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2045.952699962072,
+      "agent_latency_ms": 0.20569993648678064,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare the yearly returns of TCS and Infosys.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2044.3412000313401,
+      "agent_latency_ms": 0.22369995713233948,
+      "chart_generated": false
+    },
+    {
+      "query": "Show the stock trend of Reliance in 2024.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2057.612100034021,
+      "agent_latency_ms": 0.3011999651789665,
+      "chart_generated": false
+    },
+    {
+      "query": "What is the price of Tata Motors today?",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2059.942099964246,
+      "agent_latency_ms": 0.3600999480113387,
+      "chart_generated": false
+    },
+    {
+      "query": "Compare Bajaj Finance and HDFC Bank performance in 2023.",
+      "routing_mode": "vector",
+      "library_size": 100,
+      "status": "success",
+      "tool_used": null,
+      "e2e_latency_ms": 2053.4350000089034,
+      "agent_latency_ms": 0.24480000138282776,
+      "chart_generated": false
+    }
+  ],
+  "summary": {
+    "by_mode": {
+      "naive": {
+        "total": 30,
+        "successes": 30,
+        "avg_latency_ms": 2059.122993358566
+      },
+      "vector": {
+        "total": 30,
+        "successes": 30,
+        "avg_latency_ms": 2055.5128166568466
+      }
+    },
+    "by_size": {
+      "10": {
+        "total": 20,
+        "successes": 20,
+        "avg_latency_ms": 2064.5649449958
+      },
+      "50": {
+        "total": 20,
+        "successes": 20,
+        "avg_latency_ms": 2058.032790006837
+      },
+      "100": {
+        "total": 20,
+        "successes": 20,
+        "avg_latency_ms": 2049.355980020482
+      }
+    }
+  }
+}

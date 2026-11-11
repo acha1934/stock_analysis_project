@@ -1,0 +1,30 @@
+# ── Application Layer Dependencies (Part 2) ──────────────────────────
+
+# FastAPI backend
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Streamlit frontend
+streamlit==1.41.1
+
+# Data handling & charting
+pandas==2.2.3
+matplotlib==3.10.0
+
+# HTTP client (benchmark → API calls)
+httpx==0.28.1
+requests==2.32.3
+
+# Validation & config
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Model Layer bridge (Part 1 – installed separately, pinned here for integration)
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0
+openai==1.59.7
+
+# Dataset download
+yfinance==0.2.51
